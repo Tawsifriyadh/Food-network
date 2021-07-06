@@ -35,8 +35,7 @@ h3{
     color:  #424949 ;
 }
 .order-button{
-    text-decoration: none;
-  
+    text-decoration: none; 
     background-image: linear-gradient(orange,tomato);
     padding: 10px 40px;
     border-radius: 30px;
@@ -71,7 +70,7 @@ h3{
     padding-top: 50px; 
 }
 .social-media-width{
-    width: 30%;
+    width: 30%;   
 }
 .social-media{
     padding-left: 220px;
@@ -79,7 +78,6 @@ h3{
     margin-right: 15%;
     margin-top: 60px;
     box-shadow: 10px 10px 40px gray;
-    
 }
 footer{
     background-color: black;

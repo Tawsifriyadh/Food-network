@@ -81,6 +81,22 @@ h3{
     margin-top: 60px;
     box-shadow: 10px 10px 40px gray;
 }
+.comming-box{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 60px;
+    box-shadow: 10px 10px 40px gray;
+}
+.comming-soon{
+    width: 40%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.comming-soon img{
+    width: 100%;
+    padding: 10px; 
+}
 footer{
     background-color: black;
     color: blanchedalmond;
